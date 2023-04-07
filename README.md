@@ -7,4 +7,5 @@ npm run dev
 
 Go to localhost:3000
 ```
+This should be enough to set you off
 
